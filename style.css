@@ -1,0 +1,39 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.6;
+    background-color: whitesmoke;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid rebeccapurple;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: yellow;
+    margin-bottom: 30px;
+    
+}
+table {
+    width: 90%;
+    max-width: 600px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: black;
+    color: whitesmoke;
+    border: 2px solid;
+}
+caption {
+    font-size: 1.2rex;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    color: blanchedalmond;
+    text-align: center;
+}
+th, td {
+    border: 1px solid white;
+    padding: auto;
+
+}
